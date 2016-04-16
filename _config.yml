@@ -1,0 +1,22 @@
+title:            Inhabiting the Hack
+description:      
+url:              
+signoff:          Alex McLean
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         The Hacks
+    url:          /
+  - name:         About
+    url:          /about
+  - name:         CCN+
+    url:          http://www.communitiesandculture.org/
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
